@@ -3,9 +3,18 @@
 This repository contains the STM32-based firmware for controlling the NYCU Autonomous Underwater Vehicle (AUV).  
 It enables real-time motion and attitude control using various onboard sensors, including:
 
-- **IMU** (Inertial Measurement Unit) for orientation and angular velocity
-- **DVL** (Doppler Velocity Log) for velocity estimation
-- **Pressure Sensor** for depth measurement
+## System Overview
+
+### Sensors
+
+- **IMU** – Inertial Measurement Unit for orientation and angular velocity
+- **DVL** – Doppler Velocity Log for underwater velocity estimation
+- **Pressure Sensor** – For depth measurement
+
+### Actuators
+
+- **8 Underwater Thrusters** – Provide 6-DOF propulsion for stable movement and positioning
+- **3-DOF Robotic Arm** – Allows underwater manipulation tasks such as grasping or inspection
 
 ## Features
 
