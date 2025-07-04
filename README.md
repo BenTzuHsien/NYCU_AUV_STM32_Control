@@ -5,6 +5,9 @@ It enables real-time motion and attitude control using various onboard sensors, 
 
 ## System Overview
 
+![CEE36AB1189BCFD9B8ACE28DAEDF81179A4BAC41](https://github.com/user-attachments/assets/f5ece962-0565-412f-b6ff-3db0720afea0)
+
+
 ### Sensors
 
 - **IMU** – Inertial Measurement Unit for orientation and angular velocity
